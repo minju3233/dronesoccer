@@ -332,7 +332,7 @@ background:#fff;font-weight:bold;color:#888;text-align:center;text-decoration:no
   font-weight: 500;
 
 }
-.membership .membership_two{border:1px solid #ddd; padding:20px; min-width: 260px;}
+.membership .membership_two{border:1px solid #ddd; padding:20px; min-width: 260px; line-height:1.5;}
 
 .tab1_content h3{font-size:20px; font-weight: bold; margin-top:20px; color:#2623a5;}
 .tab2_content h3{font-size:20px; font-weight: bold; margin-top:20px; color:#2623a5;}
