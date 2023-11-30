@@ -319,7 +319,7 @@ background:#fff;font-weight:bold;color:#888;text-align:center;text-decoration:no
 .membership{margin-top:30px;}
 
 
-.membership .div-table:first-child{margin-right: 20px; }
+.membership .div-table:first-child{margin-right: 20px; margin-bottom:20px; }
 .membership .div-table{width:47%; float:left;}
 
 .membership .membership_one{
