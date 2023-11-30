@@ -320,7 +320,7 @@ background:#fff;font-weight:bold;color:#888;text-align:center;text-decoration:no
 
 
 .membership .div-table:first-child{margin-right: 20px; }
-.membership .div-table{width:auto; display: inline-block;}
+.membership .div-table{width:47%; float:left;}
 
 .membership .membership_one{
   padding:10px;
