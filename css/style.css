@@ -241,7 +241,7 @@ background:url("../images/111.png") no-repeat center;width:420px;height:60px;lin
 
 /*executive*/
 
-#introduce2 .wrap3{clear:both;min-width:150px;max-width:1100px;margin:0 auto;font-family:'Nanum Gothic', sans-serif !important}
+#introduce2 .wrap3{clear:both;min-width:150px;max-width:1200px;margin:0 auto;font-family:'Nanum Gothic', sans-serif !important}
 #introduce2 .wrap3 #list{display:block;border:2px solid #ddd;border-radius:15px;box-sizing:border-box;padding:15px;height:70px;
 margin-top:20px}
 #introduce2 .wrap3 #list li{width:25% !important;float:left;box-sizing:border-box}
